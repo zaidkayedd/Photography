@@ -262,32 +262,6 @@ const featuredWork = [
   }
 ]
 
-const services = [
-  {
-    title: 'Weddings',
-    description: 'Timeless documentation of your most important day, capturing authentic emotions and precious moments with artistic elegance.'
-  },
-  {
-    title: 'Portraits',
-    description: 'Professional portraits that reveal personality and character through thoughtful composition, lighting, and genuine connection.'
-  },
-  {
-    title: 'Events',
-    description: 'Corporate and social gatherings documented with discretion, creativity, and an eye for meaningful moments.'
-  },
-  {
-    title: 'Automotive',
-    description: 'Dynamic vehicle photography showcasing design, craftsmanship, and engineering excellence through artistic vision.'
-  },
-  {
-    title: 'Architecture',
-    description: 'Architectural photography that highlights form, function, and the poetry of built environments and spaces.'
-  },
-  {
-    title: 'Graduations',
-    description: 'Milestone celebrations captured with pride and joy, documenting achievements and the beginning of new chapters.'
-  }
-]
 
 onMounted(() => {
   imageInterval = setInterval(() => {
